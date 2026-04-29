@@ -1,12 +1,12 @@
 {
-  "export_job_id": "348af3c6-9397-444d-8a37-19d374c270f8",
+  "export_job_id": "6a3092cc-2696-413a-a4bd-78d166b6d17f",
   "id_short": 545987,
-  "published_at": "2026-04-22T07:38:24Z",
+  "published_at": "2026-04-29T19:09:10Z",
   "repo_name": "the-hhi-monopoly-index-for-new-york-newark-jersey-city-metro-area-ny-nj-us-sample-545987",
   "sample_asset_name": "beamstation_545987_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/545987/beamstation_545987_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
-  "sample_records": 53,
-  "sample_sha256": "196ae51273f594ee75e7f5f16748c42a46ac08c8633fffbc0a52e00225cc3ab3",
-  "sample_size_bytes": 228400,
-  "total_records": 539
+  "sample_records": 59,
+  "sample_sha256": "4ea84d5bf8d95cf4a5dfefc4d8cf8725fb32523705869244df1f52cfa771cfc2",
+  "sample_size_bytes": 247795,
+  "total_records": 590
 }
